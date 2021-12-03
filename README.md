@@ -1,6 +1,6 @@
-### 👋 Hi, I’m @ramthaker 
+## 👋 Hi, I’m @ramthaker 
 
-## A (C#, JavaScipt) Full-Stack Dev.
+# A (C#, JavaScipt) Full-Stack Dev.
 
 -  I am curentaly woking on Angular, Azure, .Net Core, MVC Framework , DevOps, Micro-services.
 - 🌱 I am currently learning : Micro-Frontends, Docker, Kubernetes, Infrastructure as Code, AI & ML
