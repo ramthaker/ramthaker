@@ -6,8 +6,7 @@
 - 🌱 I am currently learning : Micro-Frontends, Docker, Kubernetes, Infrastructure as Code, AI & ML
 - 👯 I am looking to collaborate in Angular, .Net Core, Azure projects
 - 📫 How to reach me ...
-- 📫ramthaker123@gmail.com
-- 📫https://www.linkedin.com/in/ramthaker/ 
+  - 📫ramthaker123@gmail.com
 
 
 
